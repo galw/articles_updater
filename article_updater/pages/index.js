@@ -19,6 +19,7 @@ export default function Home() {
           <Article title="article 2" message="B got rekt" />
           <Article title="article 3" message="C got rekt" />
           <Article title="article 4" message="D got rekt" />
+          <Article title="article 5" message="E got rekt" />
         </div>
       </main>
 
